@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../img/deser_2.png</file>
+    <file>../img/deser_3.png</file>
+    <file>../img/deser_4.png</file>
+    <file>../img/deser_5.png</file>
+    <file>../img/deser_6.png</file>
+    <file>../img/desert.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>../img/sandwiches.png</file>
+    <file>../img/sandwiches_2.png</file>
+    <file>../img/sandwiches_3.jpg</file>
+    <file>../img/sandwiches_4.png</file>
+    <file>../img/sandwiches_5.png</file>
+    <file>../img/sandwiches_6.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>../img/napitki_2.png</file>
+    <file>../img/napitki_3.png</file>
+    <file>../img/napitki_4.png</file>
+    <file>../img/napitki_5.png</file>
+    <file>../img/napitki.png</file>
+    <file>../img/napitki_6.jpg</file>
+  </qresource>
+</RCC>

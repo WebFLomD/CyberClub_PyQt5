@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../icon/icons8-restart-96.png</file>
+    <file>../icon/icons8-power-button-96.png</file>
+    <file>../icon/icons8-user-100.png</file>
+  </qresource>
+</RCC>

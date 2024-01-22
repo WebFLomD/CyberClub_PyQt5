@@ -1,0 +1,11 @@
+DOCX
+
+    pip install python-docx
+
+Excel
+pip install pandas
+pip install openpyxl
+
+
+######################
+pip install PyQtWebEngine
